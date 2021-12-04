@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375915718616",
+    "project_id": "fir-crud-6ed2f",
+    "storage_bucket": "fir-crud-6ed2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375915718616:android:8381232b0c78badc78f4ad",
+        "android_client_info": {
+          "package_name": "com.example.firebasedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375915718616-g7maeu9pj9ptqkq7gepea6v097q1d38r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgv-kXtYm5J8qUgY2VmC_KtLCasUDKtB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375915718616-g7maeu9pj9ptqkq7gepea6v097q1d38r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
